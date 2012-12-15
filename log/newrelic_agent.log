@@ -1,0 +1,63 @@
+# Logfile created on 2012-12-07 10:45:13 +0800 by logger.rb/31641
+[12/07/12 10:45:13 +0800 Jesse-Cais-MacBook-Pro.local (16504)] INFO : Dispatcher: webrick
+[12/07/12 10:45:13 +0800 Jesse-Cais-MacBook-Pro.local (16504)] INFO : Application: My Application
+[12/07/12 10:45:13 +0800 Jesse-Cais-MacBook-Pro.local (16504)] WARN : Agent configured not to send data in this environment.
+[12/07/12 10:45:13 +0800 Jesse-Cais-MacBook-Pro.local (16504)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 16504
+[12/07/12 10:45:13 +0800 Jesse-Cais-MacBook-Pro.local (16504)] INFO : Agent Log at /Users/jesse/Work/jetlun/myJetlun2/log/newrelic_agent.log
+[12/07/12 10:52:39 +0800 Jesse-Cais-MacBook-Pro.local (16551)] INFO : Dispatcher: webrick
+[12/07/12 10:52:39 +0800 Jesse-Cais-MacBook-Pro.local (16551)] INFO : Application: My Application
+[12/07/12 10:52:39 +0800 Jesse-Cais-MacBook-Pro.local (16551)] WARN : Agent configured not to send data in this environment.
+[12/07/12 10:52:39 +0800 Jesse-Cais-MacBook-Pro.local (16551)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 16551
+[12/07/12 10:52:39 +0800 Jesse-Cais-MacBook-Pro.local (16551)] INFO : Agent Log at /Users/jesse/Work/jetlun/myJetlun2/log/newrelic_agent.log
+[12/07/12 11:01:16 +0800 Jesse-Cais-MacBook-Pro.local (16750)] INFO : Dispatcher: webrick
+[12/07/12 11:01:16 +0800 Jesse-Cais-MacBook-Pro.local (16750)] INFO : Application: My Application
+[12/07/12 11:01:16 +0800 Jesse-Cais-MacBook-Pro.local (16750)] WARN : Agent configured not to send data in this environment.
+[12/07/12 11:01:16 +0800 Jesse-Cais-MacBook-Pro.local (16750)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 16750
+[12/07/12 11:01:16 +0800 Jesse-Cais-MacBook-Pro.local (16750)] INFO : Agent Log at /Users/jesse/Work/jetlun/myJetlun2/log/newrelic_agent.log
+[12/07/12 14:19:57 +0800 Jesse-Cais-MacBook-Pro.local (37575)] INFO : Dispatcher: webrick
+[12/07/12 14:19:57 +0800 Jesse-Cais-MacBook-Pro.local (37575)] INFO : Application: My Application
+[12/07/12 14:19:57 +0800 Jesse-Cais-MacBook-Pro.local (37575)] WARN : Agent configured not to send data in this environment.
+[12/07/12 14:19:57 +0800 Jesse-Cais-MacBook-Pro.local (37575)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 37575
+[12/07/12 14:19:57 +0800 Jesse-Cais-MacBook-Pro.local (37575)] INFO : Agent Log at /Users/jesse/Work/jetlun/myJetlun2/log/newrelic_agent.log
+[12/07/12 14:27:27 +0800 Jesse-Cais-MacBook-Pro.local (37807)] INFO : Dispatcher: webrick
+[12/07/12 14:27:27 +0800 Jesse-Cais-MacBook-Pro.local (37807)] INFO : Application: My Application
+[12/07/12 14:27:27 +0800 Jesse-Cais-MacBook-Pro.local (37807)] WARN : Agent configured not to send data in this environment.
+[12/07/12 14:27:27 +0800 Jesse-Cais-MacBook-Pro.local (37807)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 37807
+[12/07/12 14:27:27 +0800 Jesse-Cais-MacBook-Pro.local (37807)] INFO : Agent Log at /Users/jesse/Work/jetlun/myJetlun2/log/newrelic_agent.log
+[12/07/12 17:42:26 +0800 Jesse-Cais-MacBook-Pro.local (42996)] INFO : Dispatcher: unicorn
+[12/07/12 17:42:26 +0800 Jesse-Cais-MacBook-Pro.local (42996)] INFO : Application: My Application
+[12/07/12 17:42:26 +0800 Jesse-Cais-MacBook-Pro.local (42996)] WARN : Agent configured not to send data in this environment.
+[12/07/12 17:42:26 +0800 Jesse-Cais-MacBook-Pro.local (42996)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 42996
+[12/07/12 17:42:26 +0800 Jesse-Cais-MacBook-Pro.local (42996)] INFO : Agent Log at /Users/jesse/Work/jetlun/myJetlun2/log/newrelic_agent.log
+[12/07/12 17:42:27 +0800 Jesse-Cais-MacBook-Pro.local (42996)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[12/07/12 17:43:48 +0800 Jesse-Cais-MacBook-Pro.local (43016)] INFO : Dispatcher: unicorn
+[12/07/12 17:43:48 +0800 Jesse-Cais-MacBook-Pro.local (43016)] INFO : Application: My Application
+[12/07/12 17:43:48 +0800 Jesse-Cais-MacBook-Pro.local (43016)] WARN : Agent configured not to send data in this environment.
+[12/07/12 17:43:48 +0800 Jesse-Cais-MacBook-Pro.local (43016)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 43016
+[12/07/12 17:43:48 +0800 Jesse-Cais-MacBook-Pro.local (43016)] INFO : Agent Log at /Users/jesse/Work/jetlun/myJetlun2/log/newrelic_agent.log
+[12/07/12 17:43:48 +0800 Jesse-Cais-MacBook-Pro.local (43016)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[12/10/12 11:21:17 +0800 Jesse-Cais-MacBook-Pro.local (47890)] INFO : Dispatcher: webrick
+[12/10/12 11:21:17 +0800 Jesse-Cais-MacBook-Pro.local (47890)] INFO : Application: My Application
+[12/10/12 11:21:17 +0800 Jesse-Cais-MacBook-Pro.local (47890)] WARN : Agent configured not to send data in this environment.
+[12/10/12 11:21:17 +0800 Jesse-Cais-MacBook-Pro.local (47890)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 47890
+[12/10/12 11:21:17 +0800 Jesse-Cais-MacBook-Pro.local (47890)] INFO : Agent Log at /Users/jesse/Work/jetlun/myJetlun2/log/newrelic_agent.log
+[12/10/12 13:42:59 +0800 Jesse-Cais-MacBook-Pro.local (49074)] INFO : Dispatcher: webrick
+[12/10/12 13:42:59 +0800 Jesse-Cais-MacBook-Pro.local (49074)] INFO : Application: My Application
+[12/10/12 13:42:59 +0800 Jesse-Cais-MacBook-Pro.local (49074)] WARN : Agent configured not to send data in this environment.
+[12/10/12 13:42:59 +0800 Jesse-Cais-MacBook-Pro.local (49074)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 49074
+[12/10/12 13:42:59 +0800 Jesse-Cais-MacBook-Pro.local (49074)] INFO : Agent Log at /Users/jesse/Work/jetlun/myJetlun2/log/newrelic_agent.log
+[12/10/12 13:45:02 +0800 Jesse-Cais-MacBook-Pro.local (49128)] INFO : Dispatcher: webrick
+[12/10/12 13:45:02 +0800 Jesse-Cais-MacBook-Pro.local (49128)] INFO : Application: My Application
+[12/10/12 13:45:02 +0800 Jesse-Cais-MacBook-Pro.local (49128)] WARN : Agent configured not to send data in this environment.
+[12/10/12 13:45:02 +0800 Jesse-Cais-MacBook-Pro.local (49128)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 49128
+[12/10/12 13:45:02 +0800 Jesse-Cais-MacBook-Pro.local (49128)] INFO : Agent Log at /Users/jesse/Work/jetlun/myJetlun2/log/newrelic_agent.log
+[12/11/12 14:14:19 +0800 Jesse-Cais-MacBook-Pro.local (57562)] INFO : Dispatcher: webrick
+[12/11/12 14:14:19 +0800 Jesse-Cais-MacBook-Pro.local (57562)] INFO : Application: My Application
+[12/11/12 14:14:19 +0800 Jesse-Cais-MacBook-Pro.local (57562)] WARN : Agent configured not to send data in this environment.
+[12/11/12 14:14:19 +0800 Jesse-Cais-MacBook-Pro.local (57562)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 57562
+[12/11/12 14:14:19 +0800 Jesse-Cais-MacBook-Pro.local (57562)] INFO : Agent Log at /Users/jesse/Work/jetlun/myJetlun2/log/newrelic_agent.log
+[12/15/12 12:54:16 +0800 Jesse-Cais-MacBook-Pro.local (26344)] INFO : Dispatcher: webrick
+[12/15/12 12:54:16 +0800 Jesse-Cais-MacBook-Pro.local (26344)] INFO : Application: My Application
+[12/15/12 12:54:16 +0800 Jesse-Cais-MacBook-Pro.local (26344)] WARN : Agent configured not to send data in this environment.
+[12/15/12 12:54:16 +0800 Jesse-Cais-MacBook-Pro.local (26344)] INFO : New Relic Ruby Agent 3.5.3 Initialized: pid = 26344
+[12/15/12 12:54:16 +0800 Jesse-Cais-MacBook-Pro.local (26344)] INFO : Agent Log at /Users/jesse/Work/sources/19wu/log/newrelic_agent.log

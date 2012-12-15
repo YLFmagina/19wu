@@ -1,0 +1,44 @@
+I, [2012-12-07T17:42:15.374010 #42996]  INFO -- : Refreshing Gem list
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (4.6260ms)
+I, [2012-12-07T17:42:30.059799 #42996]  INFO -- : listening on addr=0.0.0.0:9000 fd=8
+I, [2012-12-07T17:42:30.091170 #42996]  INFO -- : listening on addr=/tmp/unicorn.myJetlun2.sock fd=11
+I, [2012-12-07T17:42:30.096642 #43004]  INFO -- : worker=0 spawned pid=43004
+I, [2012-12-07T17:42:30.098958 #42996]  INFO -- : master process ready
+I, [2012-12-07T17:42:30.129422 #43004]  INFO -- : worker=0 ready
+I, [2012-12-07T17:43:25.298052 #42996]  INFO -- : reaped #<Process::Status: pid 43004 exit 0> worker=0
+I, [2012-12-07T17:43:25.311558 #42996]  INFO -- : master complete
+I, [2012-12-07T17:43:33.502393 #43016]  INFO -- : Refreshing Gem list
+  MOPED: 127.0.0.1:27017 COMMAND      database=admin command={:ismaster=>1} (1.1239ms)
+I, [2012-12-07T17:43:49.913922 #43016]  INFO -- : listening on addr=0.0.0.0:9000 fd=8
+I, [2012-12-07T17:43:49.914301 #43016]  INFO -- : unlinking existing socket=/tmp/unicorn.myJetlun2.sock
+I, [2012-12-07T17:43:49.938980 #43016]  INFO -- : listening on addr=/tmp/unicorn.myJetlun2.sock fd=11
+I, [2012-12-07T17:43:49.941017 #43016]  INFO -- : master process ready
+I, [2012-12-07T17:43:49.945432 #43025]  INFO -- : worker=0 spawned pid=43025
+I, [2012-12-07T17:43:49.951574 #43025]  INFO -- : worker=0 ready
+127.0.0.1 - - [07/Dec/2012 17:44:00] "GET / HTTP/1.1" 200 - 10.1102
+127.0.0.1 - - [07/Dec/2012 17:44:09] "GET / HTTP/1.1" 200 - 0.1003
+127.0.0.1 - - [07/Dec/2012 17:44:11] "GET /bootstrap_and_overrides.css?body=1 HTTP/1.1" 200 256553 1.2178
+127.0.0.1 - - [07/Dec/2012 17:44:12] "GET %2Fassets%2Fapplication.css?body=1 HTTP/1.1" 200 216941 0.2499
+127.0.0.1 - - [07/Dec/2012 17:44:12] "GET /dashboard.css?body=1 HTTP/1.1" 200 - 0.0334
+127.0.0.1 - - [07/Dec/2012 17:44:12] "GET /jquery.js?body=1 HTTP/1.1" 200 267740 0.6424
+127.0.0.1 - - [07/Dec/2012 17:44:12] "GET /jquery_ujs.js?body=1 HTTP/1.1" 200 17894 0.0662
+127.0.0.1 - - [07/Dec/2012 17:44:12] "GET /twitter/bootstrap/bootstrap-transition.js?body=1 HTTP/1.1" 200 1758 0.0311
+127.0.0.1 - - [07/Dec/2012 17:44:12] "GET /twitter/bootstrap/bootstrap-alert.js?body=1 HTTP/1.1" 200 2371 0.0182
+127.0.0.1 - - [07/Dec/2012 17:44:12] "GET /twitter/bootstrap/bootstrap-dropdown.js?body=1 HTTP/1.1" 200 3965 0.0100
+127.0.0.1 - - [07/Dec/2012 17:44:12] "GET /twitter/bootstrap/bootstrap-modal.js?body=1 HTTP/1.1" 200 6425 0.0882
+127.0.0.1 - - [07/Dec/2012 17:44:12] "GET /twitter/bootstrap/bootstrap-scrollspy.js?body=1 HTTP/1.1" 200 4403 0.0085
+127.0.0.1 - - [07/Dec/2012 17:44:13] "GET /twitter/bootstrap/bootstrap-tab.js?body=1 HTTP/1.1" 200 3353 0.0093
+127.0.0.1 - - [07/Dec/2012 17:44:14] "GET /twitter/bootstrap/bootstrap-tooltip.js?body=1 HTTP/1.1" 200 7758 0.0085
+127.0.0.1 - - [07/Dec/2012 17:44:14] "GET /twitter/bootstrap/bootstrap-popover.js?body=1 HTTP/1.1" 200 2995 0.0381
+127.0.0.1 - - [07/Dec/2012 17:44:14] "GET /twitter/bootstrap/bootstrap-button.js?body=1 HTTP/1.1" 200 2683 0.0162
+127.0.0.1 - - [07/Dec/2012 17:44:14] "GET /twitter/bootstrap/bootstrap-collapse.js?body=1 HTTP/1.1" 200 4463 0.0260
+127.0.0.1 - - [07/Dec/2012 17:44:14] "GET /twitter/bootstrap/bootstrap-carousel.js?body=1 HTTP/1.1" 200 5210 0.0158
+127.0.0.1 - - [07/Dec/2012 17:44:14] "GET /twitter/bootstrap/bootstrap-typeahead.js?body=1 HTTP/1.1" 200 7788 0.0145
+127.0.0.1 - - [07/Dec/2012 17:44:14] "GET /twitter/bootstrap/bootstrap-affix.js?body=1 HTTP/1.1" 200 3330 0.0107
+127.0.0.1 - - [07/Dec/2012 17:44:14] "GET /bootstrap.js?body=1 HTTP/1.1" 200 165 0.0103
+127.0.0.1 - - [07/Dec/2012 17:44:14] "GET /dashboard.js?body=1 HTTP/1.1" 200 32 0.0083
+127.0.0.1 - - [07/Dec/2012 17:44:14] "GET /twitter/bootstrap.js?body=1 HTTP/1.1" 200 13 0.0607
+127.0.0.1 - - [07/Dec/2012 17:44:14] "GET %2Fassets%2Fapplication.js?body=1 HTTP/1.1" 200 126053 0.0303
+127.0.0.1 - - [07/Dec/2012 17:44:21] "GET /assets/images/favicon.ico HTTP/1.1" 404 785 2.6509
+I, [2012-12-07T17:50:35.419677 #43016]  INFO -- : reaped #<Process::Status: pid 43025 exit 0> worker=0
+I, [2012-12-07T17:50:35.463684 #43016]  INFO -- : master complete
